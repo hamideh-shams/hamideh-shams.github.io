@@ -1,9 +1,18 @@
-.btn-style1{
-    background-color: #000000;
-    color: #6d6d6d;
-    font-family: Roboto;
+.navigation2{
+    background-color: #1a1a1a;
+    border-bottom: 1px solid #44D62C;
 }
-.bg1{
-    background-color: #000000;
+.margin-between1{
+    margin-left: 50px;
     
+}
+.margin-between2{
+    margin-left: 25px;
+    
+}
+.text1{
+    background: #555;
+    color: #eeeeee;
+    height: 44px;
+    line-height: 44px
 }
