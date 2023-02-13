@@ -2,17 +2,50 @@
     background-color: #1a1a1a;
     border-bottom: 1px solid #44D62C;
 }
-.margin-between1{
-    margin-left: 50px;
+
+    .margin-between1{
+    margin-left: 60px;
     
 }
 .margin-between2{
     margin-left: 25px;
-    
 }
 .text1{
     background: #555;
     color: #eeeeee;
     height: 44px;
     line-height: 44px
+}
+.search{
+    width: 20px;
+    
+}
+.shopping{
+    width: 20px;
+}
+.logo{
+    width: 40px;
+}
+.bg1{
+    background-color: #000000;
+
+}
+.bg2{
+    background-color: #1a1a1a;
+
+}
+.bg3{
+    background-color: #111111;
+    height: 200px;
+
+}
+.text2{
+    color: #b6b6b6;
+    
+}
+.text3{
+    color: #44d62c;
+}
+.text4{
+     color: #7e7e7e;
 }
