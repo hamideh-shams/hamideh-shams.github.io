@@ -2,32 +2,23 @@
     background-color: #1a1a1a;
     border-bottom: 1px solid #44D62C;
 }
-/* @media all and (max-width:767px){
+@media all and (max-width:767px){
  .margin-between1{
-    margin-left: calc(40px + 5vw) ;
+    margin-left: calc(60px + 5vw) ;
 }  
 }
 @media all and (min-width:768px) {
     .margin-between1{
-        margin-left: calc(40px + 5vw) ;
+        margin-left: calc(60px + 5vw) ;
 }
 }
-@media all and (max-width:767px){
-    .margin-between2{
-        margin-left: calc(15px + 5vw) ;
-}  
-}
-@media all and (min-width:768px) {
-.margin-between2{
-    margin-left: calc(15px + 5vw) ;
-}
-} */
-.margin-between1{
+
+/* .margin-between1{
     margin-left: 60px ;
 }
 .margin-between2{
     margin-left: 20px ;
-}
+} */
 .text1{
     background: #555;
     color: #eeeeee;
@@ -75,4 +66,56 @@
      padding-top: 10px;
      padding-bottom: 30px;
      flex-wrap: wrap;
+}
+.bg4{
+    background-color: #252525;
+    height: 600px;
+    width: 100%;
+}
+.img11{
+    width: 381px;
+}
+.img12{
+    width: 381px;
+}
+.img13{
+    width: 381px;
+}
+.card-color{
+    background-color: #111111;
+    height: 500px;
+}
+.card-text11{
+    color: #ffffff;
+}
+.card-text12{
+    color: #767676;
+}
+.color-link{
+    color: #41cc2a;
+}
+.card-text21{
+    color: #ffffff;
+}
+.card-text22{
+    color: #767676;
+}
+.card-text31{
+    color: #ffffff;
+}
+.card-text32{
+    color: #767676;
+}
+.bg5{
+    background-color: #111111;
+    height: 200px;
+}
+.text5{
+    color: #3ab227;
+}
+.text6{
+    color: #929292;
+}
+.bg6{
+    background-color: #252525;
 }
