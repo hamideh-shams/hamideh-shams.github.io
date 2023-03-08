@@ -4,28 +4,64 @@
 }
 @media all and (max-width:767px){
  .margin-between1{
-    margin-left: calc(60px + 5vw) ;
+    margin-left: calc(10px + 0.5vw) ;
+    
+}
+.margin-between2{
+    margin-left: calc(5px + 0.3vw) ;
 }  
+ .margin-top{
+    margin-top: 40px;
+ }
+
+.margin-top2{
+    margin-top: 40px;
+}
+.footer2{
+    display: flex;
+}
 }
 @media all and (min-width:768px) {
     .margin-between1{
-        margin-left: calc(60px + 5vw) ;
+        margin-left: calc(10px + 0.5vw) ;
+        
+}
+.margin-between2{
+    margin-left: calc(5px + 0.3vw) ;
+}
+ .margin-top{
+    margin-top: 40px;
+  }
+  .margin-top2{
+    margin-top: 40px;
+}
+.footer2{
+    display: flex;
+}
+.direction-icon{
+    direction: rtl;
 }
 }
 
-/* .margin-between1{
-    margin-left: 60px ;
-}
-.margin-between2{
-    margin-left: 20px ;
-} */
+
 .text1{
     background: #555;
     color: #eeeeee;
     padding: 10px;
     font-size: 16px;
     flex-wrap: wrap;
+    
 }
+.border-top{
+    border-top: #44d62c;
+}
+
+.text-navbar2{
+    color: #b6b6b6;
+    font-size: 12px;
+}
+
+
 .search{
     width: 20px;
     
@@ -42,6 +78,7 @@
 }
 .bg2{
     background-color: #1a1a1a;
+    margin-top: 56px;
 
 }
 .bg3{
@@ -49,10 +86,7 @@
    
 
 }
-.text2{
-    color: #b6b6b6;
-    font-size: 16px;  
-}
+
 .text3{
     color: #44d62c;
     font-size:35px ;
@@ -71,6 +105,9 @@
     background-color: #252525;
     height: 600px;
     width: 100%;
+}
+.margin1{
+    padding: 20px 50px;
 }
 .img11{
     width: 381px;
@@ -112,6 +149,7 @@
 }
 .text5{
     color: #3ab227;
+    
 }
 .text6{
     color: #929292;
@@ -119,3 +157,39 @@
 .bg6{
     background-color: #252525;
 }
+.setup{
+    width: 250px;
+}
+.text8{
+    font-size: 15px;
+    color: #3ab227
+}
+.footer-top{
+    background-color: #111111;
+}
+li{
+    color: #999999;
+    list-style-type: none;
+}
+.facebook{
+    color: #3ab227;
+    width: 20px;
+
+}
+.instagram{
+    color: #3ab227;
+    width: 20px;
+
+}
+.twitter{
+    width: 20px;
+}
+.text-footer{
+    color: #999999;
+}
+.footer{
+    background-color: #111111;
+    font-size: 14px;
+
+}
+
